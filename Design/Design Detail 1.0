@@ -1,0 +1,26 @@
+Plan for Banking application
+
+Spec Note:
+1. Boostrap have jQuery(Javascript) as a dependency
+2. If using Javascript, will need Node.js, which runs server side. 
+3. If not Node.js, I guess Django(Python), PHP, or Ruby on Rails is another option
+= Ruby on Rails vs Django => Django Python
+
+
+Design
+0. (Manual) 
+
+-Users login
+-Select one of the following
+	1. View How much spent (Day, Week, each week for current month)
+	2. Upload the new monthly document
+	2.5 Add in a record
+	3. Edit record
+	4. Edit visual setting (name, background)
+	
+1. View How Spent
+=Day
+-Any Daily Income/Profit
+-Spending (Total, Food, Grocery, 
+
+2. Upload the document. (for now, just a wells fargo txt file.)
