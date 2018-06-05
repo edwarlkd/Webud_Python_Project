@@ -1,0 +1,4 @@
+
+About Flask...
+1. Port 80 is the default for HTTP port.
+2. 
